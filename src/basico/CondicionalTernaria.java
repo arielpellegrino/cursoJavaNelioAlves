@@ -1,3 +1,5 @@
+package basico;
+
 public class CondicionalTernaria {
     public static void main(String[] args) {
         double preco = 34.5;

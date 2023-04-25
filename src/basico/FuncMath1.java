@@ -1,3 +1,5 @@
+package basico;
+
 public class FuncMath1 {
     public static void main(String[] args) {
         double x = 3.0;

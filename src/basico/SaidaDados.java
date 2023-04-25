@@ -1,3 +1,5 @@
+package basico;
+
 import java.util.Locale;
 
 public class SaidaDados {

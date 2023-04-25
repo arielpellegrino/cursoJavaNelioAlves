@@ -1,4 +1,4 @@
-/*
+package basico;/*
 
 Formula
  area = (b + B)/2.0 * h
