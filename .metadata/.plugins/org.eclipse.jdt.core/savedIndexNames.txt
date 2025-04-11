@@ -1,4 +1,0 @@
-INDEX VERSION 1.134+/home/ariel/Documentos/Developer/Java/cursoJavaNelioAlves/.metadata/.plugins/org.eclipse.jdt.core
-1865797976.index
-2035422526.index
-2776542864.index
